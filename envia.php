@@ -4,10 +4,10 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'rei.geo@hotmail.com';
+$from = 'rei.das vendas@gmail.com';
 
 // an email address that will receive the email with the output of the form
-$sendo = 'oliveira.reinaldo@escola.pr.gov.br';
+$sendo = 'enmastorm@gmail.com';
 
 // subject of the email
 $subject = 'Forumlário do site';
