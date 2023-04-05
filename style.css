@@ -1,0 +1,90 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/18/66/c1/1866c184a7d1b635ad8c1c6268d86822.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    background-color: #000;
+    color: black;
+    text-align: center;
+    top: 0;
+}
+#principal {
+	width: 900px; /*Definição de largura padrão*/
+}
+
+#menu {/*Formatação do menu*/
+	background: #c5c5c5b2;
+	/*border: 1px solid red; Borda sólida na div*/
+	padding: 18px; display: flex /*Espaçamento interna div*/
+}
+
+#conteudo {
+	background: #c5c5b2;
+	padding: 10px;
+}
+
+#jogos {
+	background: #000;
+	padding: 10px;
+	opacity : 0.6;
+}
+#rodape {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.img-campanha {
+	border: 10px solid #868A08;
+}
+
+.img-contato {
+	border: 10px solid #868A08;
+}
+
+a { /*Formatação dos links*/
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+h3 {
+	color: #828271;
+	font-size: 1.2em;
+	}
+h4 {
+	color: #828271;
+	font-size: 1.2em;
+}
+#planejamento {
+	      background: #556b2f;
+	      padding: 10px;
+	      opacity : 0.6;
+}	
+
+#iframe{
+ float: left;
+ width: 23%;
+ border: thin solid;
+ padding: 5px;
+ margin: 30px 0px 0px 0;
+}
+#professor {
+	   height: 130px;
+	   height: 130px;
+	   border-radius: 70%;
+}
+#texto1 {
+	background: #c5c5b2;
+	padding: 10px;
+	opacity : 0.6;
+}
+#videos {
+	background: #000;
+	padding: 10px;
+	opacity : 0.6;
+}
